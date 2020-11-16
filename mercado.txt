@@ -18,6 +18,10 @@ perejil
 alvaca
 chayote
 
+espinaca
+poro
+pimiento
+chile
 
 
 
