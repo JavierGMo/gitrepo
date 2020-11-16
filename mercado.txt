@@ -5,6 +5,11 @@ uvas
 aguacate
 guarana
 
+granada
+granada china
+pitaya
+tuna
+
 
 calabazas
 lechuga
